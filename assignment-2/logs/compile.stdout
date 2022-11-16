@@ -1,0 +1,11 @@
+Buildfile: /home/nith/Desktop/mtech/sem1/CA/assign/Assignment2/working_directory/build.xml
+
+build:
+    [javac] /home/nith/Desktop/mtech/sem1/CA/assign/Assignment2/working_directory/build.xml:9: warning: 'includeantruntime' was not set, defaulting to build.sysclasspath=last; set to false for repeatable builds
+
+make-jar:
+    [mkdir] Created dir: /home/nith/Desktop/mtech/sem1/CA/assign/Assignment2/working_directory/jar
+      [jar] Building jar: /home/nith/Desktop/mtech/sem1/CA/assign/Assignment2/working_directory/jar/BranchPredictor.jar
+
+BUILD SUCCESSFUL
+Total time: 0 seconds
